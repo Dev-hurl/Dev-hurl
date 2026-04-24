@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Emmanuel Adekanmbi
+# Hi 👋, I'm Emmanuel Adekanmbi.
 
 ### Flutter Developer · UX/UI Designer · Mobile Experience Builder
 
