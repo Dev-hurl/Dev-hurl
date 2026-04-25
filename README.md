@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Emmanuel Adekanmbi.
 
-### Flutter Developer · UX/UI Designer · Mobile Experience Builder
+### Flutter Developer · UX/UI Designer · 
 
 *I don't just write code — I craft experiences that feel right.*
 
