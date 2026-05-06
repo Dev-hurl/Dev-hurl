@@ -6,7 +6,6 @@
 
 *I don't just write code — I craft experiences that feel right.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Dev-hurl&color=blue&style=for-the-badge)](https://github.com/Dev-hurl)
 
 </div>
 
