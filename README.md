@@ -36,7 +36,6 @@ Flutter dev and UX/UI designer focused on building clean, intuitive mobile apps.
 
 <div align="center">
 
-![Seyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-hurl&show_icons=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=3B82F6&text_color=ffffff&border_color=3B82F6)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-hurl&layout=compact&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=3B82F6&text_color=ffffff&border_color=F97316)
 
 </div>
