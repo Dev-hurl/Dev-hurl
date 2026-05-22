@@ -33,9 +33,3 @@ Flutter dev and UX/UI designer focused on building clean, intuitive mobile apps.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-hurl&layout=compact&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=3B82F6&text_color=ffffff&border_color=F97316)
-
-</div>
